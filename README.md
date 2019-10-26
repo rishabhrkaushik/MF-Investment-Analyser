@@ -8,6 +8,7 @@
  - [Features](#features)
  - [Getting Started](#getting-started)
  - [Get In Touch](#get-in-touch)
+ - [Author](#author)
 
 ## Purpose of the Project
 The purpose of the project is to analyze one's Mutual Funds Portfolio. The project involves creating various graphs and summary table to give insights on one's investments so as to take informed decisions on investment and disinvestment.  The graphs and summary table are preliminary and investor should take consider various other factors before taking any decisions.
@@ -37,3 +38,7 @@ The project can be run either in your local environment or on Google Colab. The 
 ## Get in Touch
 
 Feel free to contact me at `rishabhrkaushik@gmail.com` with subject starting with `Github MF Analyzer Query | `
+
+## Author
+Rishabh Kaushik
+https://rishabhrkaushik.github.io
