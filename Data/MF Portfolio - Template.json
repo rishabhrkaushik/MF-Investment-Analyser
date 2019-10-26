@@ -1,0 +1,40 @@
+{
+  "Account Holder Name": "Portfolio Holder Name",
+  "PAN": "Portfolio Holder Number",
+  "Last Updated": "YYYY-MM-DD",
+  "Quandl API Key": "Quandl API Key",
+  "Funds": [
+    {
+      "Fund Name": "Fund Name",
+      "ID": "Fund ID from Quandl",
+      "Tags": ["Personal Tags to sort portfolio"],
+      "Lock In": {
+        "Period": 0
+      },
+      "Exit Load": {
+        "Period": 0,
+        "Load": 0
+      },
+      "Tax Implication": {
+        "Long Term": 10,
+        "Short Term": 15
+      },
+      "Transactions": [
+        {
+          "Date": "YYYY-MM-DD",
+          "Type": "Purchase",
+          "Amount": 10,
+          "Units": 1,
+          "NAV": 10
+        },
+        {
+          "Date": "YYYY-MM-DD",
+          "Type": "Sell",
+          "Amount": -10,
+          "Units": -1,
+          "NAV": 10
+        }
+      ]
+    }
+  ]
+}
