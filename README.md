@@ -27,11 +27,11 @@ The project at present contains following features.
  3. [Summary Table](#summary-table)
 
 ### Point of Investment Graph
-![Point of Investment Graph Screenshot](https://raw.githubusercontent.com/rishabhrkaushik/MF-Investment-Analyser/master/Screenshots/Point of Investment Graph.png)
+![Point of Investment Graph Screenshot](https://raw.githubusercontent.com/rishabhrkaushik/MF-Investment-Analyser/master/Screenshots/Point%20of%20Investment%20Graph.png)
 ### Current Value vs Invested Value Graph
-![Current Value vs Invested Amount Screenshot](https://raw.githubusercontent.com/rishabhrkaushik/MF-Investment-Analyser/master/Screenshots/Current Value vs Invested Amount.png)
+![Current Value vs Invested Amount Screenshot](https://raw.githubusercontent.com/rishabhrkaushik/MF-Investment-Analyser/master/Screenshots/Current%20Value%20vs%20Invested%20Amount.png)
 ### Summary Table
-![Summary Screenshot](https://raw.githubusercontent.com/rishabhrkaushik/MF-Investment-Analyser/master/Screenshots/Summary Table.png)
+![Summary Screenshot](https://raw.githubusercontent.com/rishabhrkaushik/MF-Investment-Analyser/master/Screenshots/Summary%20Table.png)
 ## Getting Started
 The project can be run either in your local environment or on Google Colab. The later one gives you ability to access your files from anywhere and require minimal setup. Refer `Getting Started.md` file in docs for the same.
 
